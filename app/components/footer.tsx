@@ -40,7 +40,7 @@ export default function Footer() {
 
   const contactInfo = [
     { icon: Mail, text: "amorgleam@gmail.com", href: "mailto:amorgleam@gmail.com" },
-    { icon: Phone, text: "+61 468673414", href: "tel:+61468673414" },
+    { icon: Phone, text: "+61 406 949 412", href: "tel:+61468673414" },
     { icon: MapPin, text: "Melbourne, Australia", href: "https://maps.google.com/?q=Melbourne+Australia" },
   ]
 

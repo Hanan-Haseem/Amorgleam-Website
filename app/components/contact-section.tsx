@@ -70,7 +70,7 @@ export default function ContactSection() {
           <ContactInfoCard
             icon={Phone}
             title="Phone"
-            value="+61 468 673 414"
+            value="+61 406 949 412"
             description="Mon–Fri, 9AM–5PM AEST"
             color="teal"
             delay={1}
